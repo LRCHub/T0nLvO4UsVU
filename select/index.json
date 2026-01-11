@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Imitation Ghost",
+  "base_artist": "ストレイライト",
+  "createdAt": "2026-01-11T09:00:58.311127Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Imitation Ghost",
+      "artist": "ストレイライト",
+      "has_synced": true,
+      "path": "select/01_Imitation_Ghost_ストレイライト.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Imitation Ghost",
+      "artist": "ストレイライト (田中有紀, 幸村恵理, 北原沙弥香)",
+      "has_synced": true,
+      "path": "select/02_Imitation_Ghost_ストレイライト_(田中有紀,_幸村恵理,_北原沙弥香).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Imitation Ghost (Off Vocal)",
+      "artist": "ストレイライト (田中有紀, 幸村恵理, 北原沙弥香)",
+      "has_synced": true,
+      "path": "select/03_Imitation_Ghost_(Off_Vocal)_ストレイライト_(田中有紀,_幸村恵理,_北原沙弥香).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Imitation Ghost (Off Vocal)",
+      "artist": "Straylight",
+      "has_synced": false,
+      "path": "select/04_Imitation_Ghost_(Off_Vocal)_Straylight.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Imitation Ghost",
+      "artist": "Straylight",
+      "has_synced": false,
+      "path": "select/05_Imitation_Ghost_Straylight.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Imitation Ghost",
+      "artist": "ストレイライト",
+      "has_synced": false,
+      "path": "select/pl_01_Imitation_Ghost_ストレイライト.txt"
+    }
+  ]
+}
