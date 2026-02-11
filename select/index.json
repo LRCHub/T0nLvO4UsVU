@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Imitation Ghost",
   "base_artist": "ストレイライト",
-  "createdAt": "2026-01-11T09:00:58.311127Z",
+  "createdAt": "2026-02-11T08:34:26.222716Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -43,6 +43,134 @@
       "artist": "Straylight",
       "has_synced": false,
       "path": "select/05_Imitation_Ghost_Straylight.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Imitation of Life",
+      "artist": "Anthrax",
+      "has_synced": false,
+      "path": "select/06_Imitation_of_Life_Anthrax.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Imitation of Life (Alternate Take)",
+      "artist": "Anthrax",
+      "has_synced": false,
+      "path": "select/07_Imitation_of_Life_(Alternate_Take)_Anthrax.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Imitation of Life",
+      "artist": "Electronic",
+      "has_synced": false,
+      "path": "select/08_Imitation_of_Life_Electronic.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Imitation of Life",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/09_Imitation_of_Life_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Best Imitation of Myself",
+      "artist": "Ben Folds Five",
+      "has_synced": true,
+      "path": "select/10_Best_Imitation_of_Myself_Ben_Folds_Five.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Imitation of Life (Live)",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/11_Imitation_of_Life_(Live)_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Imitation Is The Sincerest Form Of Battery",
+      "artist": "Every Time I Die",
+      "has_synced": true,
+      "path": "select/12_Imitation_Is_The_Sincerest_Form_Of_Battery_Every_Time_I_Die.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Imitation Of Life",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/13_Imitation_Of_Life_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Imitation Of Life",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/14_Imitation_Of_Life_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "One Light In a Dark Valley (An Imitation Spiritual)",
+      "artist": "Harry Chapin",
+      "has_synced": false,
+      "path": "select/15_One_Light_In_a_Dark_Valley_(An_Imitation_Spiritual)_Harry_Chapin.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Good Imitation Of The Blues",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/16_Good_Imitation_Of_The_Blues_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Imitation of Life",
+      "artist": "REM",
+      "has_synced": true,
+      "path": "select/17_Imitation_of_Life_REM.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Best Imitation of Myself",
+      "artist": "Ben Folds",
+      "has_synced": true,
+      "path": "select/18_Best_Imitation_of_Myself_Ben_Folds.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Imitation Of Life - Live From Drivetime On BBC Radio 2 / 2003",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/19_Imitation_Of_Life_-_Live_From_Drivetime_On_BBC_Radio_2___2003_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Imitation Of Life (Live From Drivetime On BBC Radio 2 \u0000 2003)",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/20_Imitation_Of_Life_(Live_From_Drivetime_On_BBC_Radio_2_\u0000_2003)_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Imitation",
+      "artist": "Melee",
+      "has_synced": true,
+      "path": "select/21_Imitation_Melee.lrc"
     },
     {
       "id": "petitlyrics_1",
